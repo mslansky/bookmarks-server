@@ -1,0 +1,53 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 768a3df0-e280-4736-aa57-f18e70b40a77 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid url ' hfmhfjyfhjhttp://Reddit.com' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/bookmark_id","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/bookmark_id","level":"error"}
+{"message":"Bookmark with id bookmark_id not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/bookmark_id","level":"error"}
+{"message":"Bookmark with id bookmark_id not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/bookmark_id","level":"error"}
+{"message":"Bookmark with id bookmark_id not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/c71d714e-486e-4d01-8045-65e97797f315","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/c71d714e-486e-4d01-8045-65e97797f315","level":"error"}
+{"message":"Bookmark with id c71d714e-486e-4d01-8045-65e97797f315 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/a769aa54-4298-4ce8-8660-c6ae65384ca2","level":"error"}
+{"message":"Bookmark with id a769aa54-4298-4ce8-8660-c6ae65384ca2 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/7878086b-8a8e-4d0c-aae9-216267bc25ba","level":"error"}
+{"message":"Bookmark with id 7878086b-8a8e-4d0c-aae9-216267bc25ba deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b1c1eb5f-3d9f-451c-a068-d3671131c784","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/b1c1eb5f-3d9f-451c-a068-d3671131c784","level":"error"}
+{"message":"Bookmark with id b1c1eb5f-3d9f-451c-a068-d3671131c784 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/12450dec-4f27-41e1-bcab-6f478a184c61","level":"error"}
+{"message":"Bookmark with id 12450dec-4f27-41e1-bcab-6f478a184c61 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/12450dec-4f27-41e1-bcab-6f478a184c61","level":"error"}
+{"message":"Bookmark with id 12450dec-4f27-41e1-bcab-6f478a184c61 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Bookmark with id 749f6fea-b208-4c6d-b1ff-b4dae7f332bf created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Invalid rating '7' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Bookmark with id 0668e88a-9f70-4160-94b4-efbdd0656373 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/eeafde1a-dd9a-4686-9d8e-8687249265bc","level":"error"}
+{"message":"Bookmark with id eeafde1a-dd9a-4686-9d8e-8687249265bc deleted.","level":"info"}
